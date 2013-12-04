@@ -1,0 +1,262 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/">
+    <bib:Book rdf:about="#item_6">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>The University of Chicago Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Kuhn, Thomas S.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The Structure of Scientific Revolutions</dc:title>
+        <prism:edition>4</prism:edition>
+        <dc:date>2012</dc:date>
+    </bib:Book>
+    <bib:Article rdf:about="http://www.nybooks.com/articles/archives/1998/oct/08/the-revolution-that-didnt-happen/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>The New York Review of Books Volume 18</dc:title>
+                <prism:volume>18</prism:volume>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Weinberg, Steven</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The Revolution That Didn’t Happen</dc:title>
+        <dc:date>2012</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.nybooks.com/articles/archives/1998/oct/08/the-revolution-that-didnt-happen/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Article>
+    <bib:Book rdf:about="#item_9">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Gesammelte Werke</dc:title>
+                <dc:identifier>1</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Mohr Siebeck</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Popper, Karl R.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Die offene Gesellschaft und ihre Feinde, Band 1: Der Zauber Platons</dc:title>
+        <dc:date>2003-07-07</dc:date>
+    </bib:Book>
+    <rdf:Description rdf:about="https://en.wikipedia.org/w/index.php?title=Paradigm_shift&amp;oldid=578338608">
+        <z:itemType>encyclopediaArticle</z:itemType>
+        <link:link rdf:resource="#item_11"/>
+        <dc:title>Paradigm shift</dc:title>
+        <dcterms:abstract>A paradigm shift (or revolutionary science) is, according to Thomas Kuhn, in his influential book The Structure of Scientific Revolutions (1962), a change in the basic assumptions, or paradigms, within the ruling theory of science. It is in contrast to his idea of normal science. According to Kuhn, &quot;A paradigm is what members of a scientific community, and they alone, share&quot; (The Essential Tension, 1977). Unlike a normal scientist, Kuhn held, &quot;a student in the humanities has constantly before him a number of competing and incommensurable solutions to these problems, solutions that he must ultimately examine for himself&quot; (The Structure of Scientific Revolutions).</dcterms:abstract>
+        <dc:title>Wikipedia, the free encyclopedia</dc:title>
+        <dc:date>2013-10-23T00:28:08Z</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://en.wikipedia.org/w/index.php?title=Paradigm_shift&amp;oldid=578338608</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2013-11-06 10:59:20</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Wikipedia</z:libraryCatalog>
+        <dc:rights>Creative Commons Attribution-ShareAlike License</dc:rights>
+        <dc:description>Page Version ID: 578338608</dc:description>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_11">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dcterms:dateSubmitted>2013-11-06 10:59:26</dcterms:dateSubmitted>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://en.wikipedia.org/w/index.php?title=Paradigm_shift&amp;oldid=578338608</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <link:type>text/html</link:type>
+        <link:charset>1</link:charset>
+    </z:Attachment>
+    <bib:Document rdf:about="http://www.nytimes.com/1996/06/19/us/thomas-kuhn-73-devised-science-paradigm.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>New York Times</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>van Gelder, Lawrence</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_13"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>BIOGRAPHICAL INFORMATION</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>DEATHS</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Thomas Kuhn, 73; Devised Science Paradigm</dc:title>
+        <dcterms:abstract>Thomas S. Kuhn, whose theory of scientific revolution became a profoundly influential landmark of 20th-century intellectual history, died on Monday at his home in Cambridge, Mass. He was 73.Robert</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.nytimes.com/1996/06/19/us/thomas-kuhn-73-devised-science-paradigm.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2013-11-06 11:01:04</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_13">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dcterms:dateSubmitted>2013-11-06 11:01:04</dcterms:dateSubmitted>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.nytimes.com/1996/06/19/us/thomas-kuhn-73-devised-science-paradigm.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <link:type>text/html</link:type>
+        <link:charset>1</link:charset>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.zeww.uni-hannover.de/083_Hoyningen_TSKuhn.pdf">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Journal for General Philosophy of Science</dc:title>
+                <prism:volume>28</prism:volume>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Hoyningen-Huene, Paul</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Thomas S. Kuhn</dc:title>
+        <bib:pages>235–256</bib:pages>
+        <dc:date>1997</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.zeww.uni-hannover.de/083_Hoyningen_TSKuhn.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Article>
+    <bib:Article rdf:about="#item_15">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Newspaper>
+               <dc:title>Nature Medicine Volume 18, Number 10</dc:title>
+            </bib:Newspaper>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Goldstein, Joseph L.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Paradigm shifts in science: insights from the arts</dc:title>
+        <dc:date>2012</dc:date>
+    </bib:Article>
+    <bib:Article rdf:about="http://www.sfu.ca/~boland/fullerJEMessay.pdf">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>Journal of Economic Methodology</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Boland, Lawrence A.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Kuhn vs. Popper by way of Lakatos and the Cold War</dc:title>
+        <bib:pages>191-196</bib:pages>
+        <dc:date>2008</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.sfu.ca/~boland/fullerJEMessay.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Article>
+    <bib:Book rdf:about="#item_19">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>Friedr. Vieweg $ Sohn Verlagsgesellschaft mbH</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Hoyningen-Huene, Paul</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Die Wissenschaftsphilosophie Thomas S. Kuhns</dc:title>
+        <dc:date>1989</dc:date>
+    </bib:Book>
+    <bib:Thesis rdf:about="#item_20">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Georg-August-Universität Göttingen</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Rose, Uwe</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Thomas S. Kuhn: Verständnis und Mißverständnis Zur Geschichte seiner Rezeption</dc:title>
+        <dc:date>2004</dc:date>
+    </bib:Thesis>
+</rdf:RDF>
